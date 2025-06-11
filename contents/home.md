@@ -2,7 +2,7 @@
 
 
 
-He is currently pursuing a Bachelor's Degree in Artificial Intelligence, at Collage of Information Science and Technology, Beijing University of Chemical Technology, China.
+Currently pursuing a Bachelor's Degree in Artificial Intelligence, at Collage of Information Science and Technology, Beijing University of Chemical Technology, China.
 
 #### Email
 2022030590@buct.edu.cn\
