@@ -9,7 +9,7 @@ Currently pursuing a Bachelor's Degree in Artificial Intelligence, at Collage of
 qzlrxs@gmail.com
 
 #### Education
-B.E., Artificial Intelligence, Beijing University of Chemical Technology, 2023—2025 (expected).
+B.E., Artificial Intelligence, Beijing University of Chemical Technology, 2023—2027 (expected).
 
 #### Research Interests
 Deep Learning, Machine Learning, Large Language Model, Computer Vision, Medical Image Analysis.
