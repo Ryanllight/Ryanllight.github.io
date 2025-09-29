@@ -1,5 +1,5 @@
-[//]: # (- National Scholarship, 2025.)
+- National Scholarship, 2025.
 
-[//]: # (- Comprehensive Development Scholarship, 2025.)
+- Comprehensive Development Scholarship, 2025.
 
-[//]: # (- People’s Scholarship, 2024.)
+- People’s Scholarship, 2024.
